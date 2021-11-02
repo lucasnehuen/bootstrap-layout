@@ -1,6 +1,13 @@
 .fondo{
     background-image: url("imagenes/personas.jpg");
-    background-position: left;
+    background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
+}
+.alineacion-imagen{
+    width: 400px;
+    height: 380px;
+    margin: auto;
+}
+.container-fondo{
+    background-color: rgba(0, 255, 115, 0.459);
 }
